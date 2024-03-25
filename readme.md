@@ -8,7 +8,7 @@ Vue.JS è un framework JavaScript che facilita la scrittura del codice e lo svil
         Cosa vuol dire? Penso significhi che, come abbiamo visto con Gianluca questa mattina, è possibile lavorare sul file HTML senza effettivamente metterci mano.
         
 - Reattività: Vue traccia automaticamente i cambiamenti dello stato JavaScript e aggiorna efficientemente il DOM quando avvengono modifiche. 
-        Cosa vuol dire? Il contenuto del DOM cambia dinamicamente quando a cambiare e JS. Anche in questo caso, non è necessario che il web developer lavori sul file HTML.
+        Cosa vuol dire? Il contenuto del DOM cambia dinamicamente quando a cambiare è JS. Anche in questo caso, non è necessario che il web developer lavori sul file HTML.
 
 ## Potenzialià di Vue.JS
 Vue.JS è un framework potente e flessibile che consente allo sviluppatore web di approcciarsi a molti contesti lavorativi (lato Front-End).
